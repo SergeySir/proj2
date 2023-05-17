@@ -12,5 +12,6 @@ public class App
         System.out.println("111111");
         System.out.println("2222");
         System.out.println("3");
+        int a = 10;
     }
 }
