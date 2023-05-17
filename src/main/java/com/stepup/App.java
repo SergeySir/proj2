@@ -12,9 +12,8 @@ public class App
         System.out.println("111111");
         System.out.println("2222bbb");
         System.out.println("a");
-        System.out.println("3");
 
-        int a = 10;
+        int a = 11;
         a ++;
         System.out.println("a = " + a );
     }
